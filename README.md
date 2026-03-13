@@ -24,25 +24,32 @@ Gosto de resolver problemas, desenvolver projetos e explorar novas tecnologias p
 ---
 
 ## 🛠️ Tecnologias que estou aprendendo
+
  
  Lógica de programação
+ 
  Desenvolvimento web (HTML, CSS, PYTHON)
+ 
  Banco de Dados
 
 ---
 
 ## 🎯 Objetivo
 
+
 Continuar aprendendo programação, desenvolver projetos e crescer na área de tecnologia como futura desenvolvedora.
+
 
 ---
 
 
 ## 📫 Contato
 
+
 📧 Email: [alicesobral1705@gmail.com]
+
 
 ---
 
-⭐ “A tecnologia está sempre evoluindo, e eu quero evoluir junto com ela.”
--->
+
+⭐ "A tecnologia move o mundo, mas são as pessoas que a tornam possível."
