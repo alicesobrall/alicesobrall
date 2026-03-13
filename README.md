@@ -1,12 +1,8 @@
 ## Olá, eu sou a [Alice]👋
 
-<!-- Ótimo! Vou montar um **README mais bonito e profissional**, com layout que muita gente usa no GitHub. Você só precisa trocar **seu nome e email**.
-
-# Olá, eu sou [Seu Nome] 👋
-
-🎓 Estudante do Ensino Médio Técnico em **Desenvolvimento de Sistemas**
-💻 Interessada em **programação, tecnologia e desenvolvimento de software**
-📚 Sempre aprendendo novas linguagens e ferramentas
+##🎓 Estudante do Ensino Médio Técnico em **Desenvolvimento de Sistemas**
+##💻 Interessada em **programação, tecnologia e desenvolvimento de software**
+##📚 Sempre aprendendo novas linguagens e ferramentas
 
 ---
 
