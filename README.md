@@ -18,13 +18,15 @@ Gosto de resolver problemas, desenvolver projetos e explorar novas tecnologias p
 * 💻 Aprendendo desenvolvimento web
 * 🌱 Sempre evoluindo na área de tecnologia
 
+
 ---
 
 ## 🛠️ Tecnologias que estou aprendendo
+ 
+ Lógica de programação
+ Desenvolvimento web (HTML, CSS, PYTHON)
+ Banco de Dados
 
-! Lógica de programação
-! Desenvolvimento web (HTML, CSS, PYTHON)
-! Banco de Dados
 ---
 
 ## 🎯 Objetivo
@@ -33,6 +35,7 @@ Continuar aprendendo programação, desenvolver projetos e crescer na área de t
 
 ---
 
+
 ## 📫 Contato
 
 📧 Email: [alicesobral1705@gmail.com]
@@ -40,17 +43,4 @@ Continuar aprendendo programação, desenvolver projetos e crescer na área de t
 ---
 
 ⭐ “A tecnologia está sempre evoluindo, e eu quero evoluir junto com ela.”
-
-**alicesobrall/alicesobrall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
