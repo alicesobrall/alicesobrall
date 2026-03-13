@@ -1,7 +1,9 @@
 ## Olá, eu sou a [Alice]👋
 
 🎓 Estudante do Ensino Médio Técnico em **Desenvolvimento de Sistemas**
+
 💻 Interessada em **programação, tecnologia e desenvolvimento de software**
+
 📚 Sempre aprendendo novas linguagens e ferramentas
 
 ---
